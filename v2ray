@@ -13,3 +13,4 @@ vmess://eyJmcCI6IiIsInBvcnQiOiIyMDUyIiwibmV0Ijoid3MiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwi
 vmess://eyJwYXRoIjoiIiwic2N5IjoiYXV0byIsInBvcnQiOiI2NTY1IiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsIm5ldCI6InRjcCIsImZwIjoiIiwidiI6IjIiLCJwcyI6IkJ1ZmZhbG8iLCJ0bHMiOiIiLCJpZCI6IjgyZmQ3ZDc0LTgwNTUtNDFhMC05ZjVkLTlhNTZlZjMwMjU2MyIsImFkZCI6IjE4MS4yMTQuMTQ3LjIwMiIsInR5cGUiOiJodHRwIiwic25pIjoiIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSJ9
 vless://60f39d49-63a3-4676-a57d-f3e159045b1d@104.17.9.53:2052?type=ws&security=none&host=a.aminalipoor90.workers.dev&path=/?ed%3D2048#ap
 vless://023081aa-9d7f-4f00-b2ba-1c1424f1b3f3@78.47.21.194:27218?type=tcp&headerType=http&host=speedtest.net#Aminoo_@0
+vless://8d697f3c-b81a-42b6-abd1-8b4c7eca73bb@3edf6804.amin-9im.pages.dev:443?type=ws&security=tls&host=3edf6804.amin-9im.pages.dev&path=/?ed%3D2048&fp=randomized&sni=3edf6804.amin-9im.pages.dev&alpn=h3,h2,http/1.1#3edf6804.amin-9im.pages.dev
